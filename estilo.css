@@ -1,0 +1,48 @@
+body{
+    display: flex; 
+ }
+ img{
+    float:left;
+    
+ }
+ 
+ .contenedor{
+     border: 1px solid #ccc;
+     margin:0 auto;
+     width: 60%;
+     background: #fff;
+     padding: 10px;
+     
+ }
+ 
+ .principal{
+     background: #a6dfe4;
+     padding: 20px;
+     text-align:center;
+     
+ }
+ 
+ .header{
+     display: flex;
+     text-align:center;
+     align-items: center;
+     justify-content:left;
+     font-family: 'Merriweather', serif;
+     font-size:20px ;
+
+ }
+ 
+ .nombre{
+     margin-left: 40px;
+     width: 100%;
+     
+ }
+ 
+ .Titulo{
+     border: 1px solid #97e7ee;
+     color:#a6dfe4
+ }
+ .add-icon:before {
+    content: "\f2b4";
+    
+  }
